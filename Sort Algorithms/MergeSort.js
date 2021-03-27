@@ -35,4 +35,4 @@ const mergeSort = arr => {
 };
 
 // Check #2
-console.log(mergeSort(unsortedArr));
+// console.log(mergeSort(unsortedArr));
